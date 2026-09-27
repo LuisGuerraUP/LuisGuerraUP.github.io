@@ -9,10 +9,10 @@ profile:
   image: Foto.png
   image_circular: false
   more_info: >
-  <p><strong>Universidad de Pamplona</strong></p>
-  <p>Department of Physics</p>
-  <p>Pamplona, Norte de Santander, Colombia</p>
-  <p><a href="mailto:luisguerra@unipamplona.edu.co">luisguerra@unipamplona.edu.co</a></p>
+    <p><strong>Universidad de Pamplona</strong></p>
+    <p>Department of Physics</p>
+    <p>Pamplona, Norte de Santander, Colombia</p>
+    <p><a href="mailto:luisguerra@unipamplona.edu.co">luisguerra@unipamplona.edu.co</a></p>
 
 selected_papers: false
 social: false
