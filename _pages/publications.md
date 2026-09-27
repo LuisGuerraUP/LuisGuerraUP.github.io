@@ -10,6 +10,10 @@ title: publications
   font-weight: 700 !important;
   font-style: normal !important;
 }
+
+.publications h2.year {
+  display: none !important;
+}
 </style>
 layout: page
 permalink: /publications/
