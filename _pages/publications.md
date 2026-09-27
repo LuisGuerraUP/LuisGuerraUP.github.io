@@ -3,7 +3,6 @@ layout: page
 permalink: /publications/
 title: publications
 ---
-
 <style>
 .publications .author em,
 .publications .author a[href*="luisguerraup.github.io"] {
@@ -11,7 +10,7 @@ title: publications
   font-style: normal !important;
 }
 
-.publications h2.year {
+.publications h2.bibliography {
   display: none !important;
 }
 </style>
