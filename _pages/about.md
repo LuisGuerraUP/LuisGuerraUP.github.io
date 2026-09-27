@@ -6,7 +6,7 @@ subtitle: <strong>Professor & Researcher in Physics</strong><br>Universidad de P
 
 profile:
   align: right
-  image: Foto.jpg
+  image: Foto.png
   image_circular: false
   more_info: >
     <p>Universidad de Pamplona</p>
