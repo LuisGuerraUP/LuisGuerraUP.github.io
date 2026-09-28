@@ -19,6 +19,10 @@ nav_order: 2
 }
 </style>
 
+<div class="publications">
+
 {% include bib_search.liquid %}
 
 {% bibliography %}
+
+</div>
