@@ -6,15 +6,7 @@ cv:
   image: ""
   summary: Physicist and researcher specializing in plasmonics, SERS, nanophotonics, optical spectroscopy, and optical sensing.
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-   address:
+    address:
     city: Pamplona
     region: Norte de Santander
     countryCode: CO
