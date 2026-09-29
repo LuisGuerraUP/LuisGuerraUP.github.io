@@ -12,12 +12,12 @@ cv:
     countryCode: CO
 
   sections:
-    Education:
+   Education:
       - institution: Balseiro Institute
-        location: San Carlos de Bariloche, Argentina
+        location: Bariloche, Argentina
         area: Physics
         studyType: PhD
-        end_date: 2021
+        date: 2021
         highlights:
           - "Thesis: Optical antennas at the nano and microscale."
           - "Photonics and Optoelectronics Laboratory."
@@ -27,20 +27,18 @@ cv:
         location: Pamplona, Colombia
         area: Physics
         studyType: Master in Physics
-        end_date: 2011
+        date: 2011
         highlights:
-          - "Thesis: Dynamic Holography using Bi12SiO20 and LiNbO3 Photorefractive Materials."
-          - "Modern Optics Laboratory."
+          - "Thesis: Dynamic Holography using Bi12SiO20 and LiNbO3 photorefractive materials."
           - "Advisor: PhD Jorge Enrique Rueda."
 
       - institution: University of Pamplona
         location: Pamplona, Colombia
         area: Physics
         studyType: Physicist
-        end_date: 2006
+        date: 2006
         highlights:
           - "Thesis: Study and implementation of filters for 2D pattern recognition."
-          - "Advisor: Jorge Enrique Rueda."
           
     Experience:
       - company: Institute for Advanced Study, Princeton University
