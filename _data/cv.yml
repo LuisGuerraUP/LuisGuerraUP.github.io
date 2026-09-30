@@ -17,7 +17,7 @@ cv:
         location: Bariloche, Argentina
         area: Physics
         studyType: PhD
-        date: 2021
+        end_date: 2021
         highlights:
           - "Thesis: Optical antennas at the nano and microscale."
           - "Photonics and Optoelectronics Laboratory."
