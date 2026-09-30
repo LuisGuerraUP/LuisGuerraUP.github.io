@@ -1,112 +1,56 @@
----
-layout: page
-permalink: /cv/
-title: CV
-nav: true
-nav_order: 5
-description: Academic curriculum vitae of Luis Alfonso Guerra Hernández.
----
-
 <style>
-.cv-compact {
-  max-width: 850px;
-  margin: 0 auto;
+.education-compact {
+  margin-top: 0.5rem;
 }
 
-.cv-compact h2 {
-  font-size: 1.45rem;
-  font-weight: 600;
-  margin: 0 0 0.5rem 0;
-  padding-bottom: 0.25rem;
-  border-bottom: 2px solid var(--global-theme-color);
-}
-
-.cv-entry {
-  display: grid;
-  grid-template-columns: 1fr 65px;
-  gap: 0.1rem 1rem;
+.education-item {
   padding: 0.55rem 0;
   border-bottom: 1px solid var(--global-divider-color);
 }
 
-.cv-main {
-  font-size: 0.98rem;
-}
-
-.cv-degree {
+.education-degree {
+  font-size: 1.02rem;
   font-weight: 700;
+  margin-bottom: 0.12rem;
 }
 
-.cv-inst {
-  font-weight: 400;
+.education-meta {
+  font-size: 0.90rem;
+  line-height: 1.4;
+  color: var(--global-text-color);
 }
 
-.cv-year {
-  text-align: right;
-  font-weight: 700;
-  color: var(--global-theme-color);
-}
-
-.cv-info {
-  grid-column: 1 / -1;
-  font-size: 0.86rem;
-  opacity: 0.78;
-}
-
-.cv-thesis {
-  font-style: italic;
-}
-
-@media (max-width: 600px) {
-  .cv-entry {
-    grid-template-columns: 1fr auto;
-  }
+.education-meta em {
+  opacity: 0.9;
 }
 </style>
 
-<div class="cv-compact">
+<div class="education-compact">
 
-<h2>Education</h2>
-
-<div class="cv-entry">
-  <div class="cv-main">
-    <span class="cv-degree">PhD in Physics</span>
-    ·
-    <span class="cv-inst">Balseiro Institute</span>
-  </div>
-  <div class="cv-year">2021</div>
-
-  <div class="cv-info">
-    Bariloche, Argentina ·
-    <span class="cv-thesis">Optical antennas at the nano and microscale</span>
+<div class="education-item">
+  <div class="education-degree">PhD in Physics</div>
+  <div class="education-meta">
+    Balseiro Institute, S.C. de Bariloche, Argentina, 2021,
+    Thesis: <em>Optical antennas at the nano and microscale</em>,
+    Thesis Supervisor: Alejandro Fainstein.
   </div>
 </div>
 
-<div class="cv-entry">
-  <div class="cv-main">
-    <span class="cv-degree">Master in Physics</span>
-    ·
-    <span class="cv-inst">University of Pamplona</span>
-  </div>
-  <div class="cv-year">2011</div>
-
-  <div class="cv-info">
-    Pamplona, Colombia ·
-    <span class="cv-thesis">Dynamic Holography using Bi12SiO20 and LiNbO3 Photorefractive Materials</span>
+<div class="education-item">
+  <div class="education-degree">Master in Physics</div>
+  <div class="education-meta">
+    University of Pamplona, Pamplona, Colombia, 2011,
+    Thesis: <em>Dynamic Holography using Bi12SiO20 and LiNbO3 Photorefractive Materials</em>,
+    Thesis Supervisor: Jorge Enrique Rueda.
   </div>
 </div>
 
-<div class="cv-entry">
-  <div class="cv-main">
-    <span class="cv-degree">Physicist</span>
-    ·
-    <span class="cv-inst">University of Pamplona</span>
-  </div>
-  <div class="cv-year">2006</div>
-
-  <div class="cv-info">
-    Pamplona, Colombia ·
-    <span class="cv-thesis">Study and implementation of filters for 2D pattern recognition</span>
+<div class="education-item">
+  <div class="education-degree">Physicist</div>
+  <div class="education-meta">
+    University of Pamplona, Pamplona, Colombia, 2006,
+    Thesis: <em>Study and implementation of filters for 2D pattern recognition</em>,
+    Thesis Supervisor: Jorge Enrique Rueda.
   </div>
 </div>
 
