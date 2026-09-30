@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Courses and teaching materials.
 nav: true
 nav_order: 6
@@ -59,43 +59,43 @@ nav_order: 6
 <div class="teaching-grid">
 
   <div class="course-card">
-    <div class="course-title">Caracterización de Materiales</div>
+    <div class="course-title">Materials Characterization</div>
     <p class="course-description">
-      Fundamentos y técnicas para la caracterización estructural, morfológica y óptica de materiales.
+      Fundamentals and techniques for the structural, morphological, and optical characterization of materials.
     </p>
-    <div class="course-status">Material del curso</div>
+    <div class="course-status">Course materials</div>
   </div>
 
   <div class="course-card">
-    <div class="course-title">Laboratorio de Oscilaciones y Ondas</div>
+    <div class="course-title">Oscillations and Waves Laboratory</div>
     <p class="course-description">
-      Prácticas experimentales sobre oscilaciones, ondas, resonancia y fenómenos ondulatorios.
+      Experimental studies of oscillations, waves, resonance, and related wave phenomena.
     </p>
-    <div class="course-status">Material del curso</div>
+    <div class="course-status">Course materials</div>
   </div>
 
   <div class="course-card">
-    <div class="course-title">Propiedades Ópticas de los Materiales</div>
+    <div class="course-title">Optical Properties of Materials</div>
     <p class="course-description">
-      Interacción luz-materia y propiedades ópticas de materiales.
+      Light-matter interaction and the optical response of materials.
     </p>
-    <div class="course-status">Material del curso</div>
+    <div class="course-status">Course materials</div>
   </div>
 
   <div class="course-card">
-    <div class="course-title">Termodinámica</div>
+    <div class="course-title">Thermodynamics</div>
     <p class="course-description">
-      Termodinámica macroscópica, procesos, leyes fundamentales, entropía y ciclos.
+      Macroscopic thermodynamics, fundamental laws, thermodynamic processes, entropy, and cycles.
     </p>
-    <div class="course-status">Material del curso</div>
+    <div class="course-status">Course materials</div>
   </div>
 
   <div class="course-card">
-    <div class="course-title">Termodinámica Experimental</div>
+    <div class="course-title">Experimental Thermodynamics</div>
     <p class="course-description">
-      Prácticas experimentales relacionadas con calor, temperatura y procesos termodinámicos.
+      Experimental studies of heat, temperature, thermal properties, and thermodynamic processes.
     </p>
-    <div class="course-status">Material del curso</div>
+    <div class="course-status">Course materials</div>
   </div>
 
 </div>
