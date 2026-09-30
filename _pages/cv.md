@@ -90,3 +90,16 @@ description: Academic curriculum vitae of Luis Alfonso Guerra Hernández.
 <div class="cv-year">2011</div>
 <div class="cv-detail"><strong>Thesis:</strong> Dynamic Holography using Bi12SiO20 and LiNbO3 Photorefractive Materials.</div>
 </div>
+
+<div class="cv-item">
+<div>
+<div class="cv-title">Physicist</div>
+<div class="cv-institution">University of Pamplona · Colombia</div>
+</div>
+<div class="cv-year">2006</div>
+<div class="cv-detail"><strong>Thesis:</strong> Study and implementation of filters for 2D pattern recognition.</div>
+</div>
+
+</div>
+
+</div>
