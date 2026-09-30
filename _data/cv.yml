@@ -2,34 +2,35 @@ cv:
   name: Luis Alfonso Guerra Hernández
   label: Professor & Researcher in Physics
   email: luisguerra@unipamplona.edu.co
- # summary: Physicist and university professor with a PhD in Physics, specializing in plasmonics, SERS, nanophotonics, optical spectroscopy, and optical sensing.
 
   address:
     street: Universidad de Pamplona, Km 1 vía Bucaramanga
     city: Pamplona
-    region: Colombia
+    region: Norte de Santander
     countryCode: CO
 
   sections:
-
-     Education:
+    Education:
       - institution: Balseiro Institute
         degree: Ph.D. in Physics
         date: 2021
         location: S.C. Bariloche, Argentina
-        summary: "Thesis: Optical antennas at the nano and microscale, Thesis Supervisor: Alejandro Fainstein."
+        highlights:
+          - "Thesis: Optical antennas at the nano and microscale; Thesis Supervisor: Alejandro Fainstein."
 
       - institution: University of Pamplona
         degree: Master in Physics
         date: 2011
         location: Pamplona, Colombia
-        summary: "Thesis: Dynamic Holography using Bi12SiO20 and LiNbO3 Photorefractive Materials, Thesis Supervisor: Jorge Enrique Rueda."
+        highlights:
+          - "Thesis: Dynamic Holography using Bi12SiO20 and LiNbO3 Photorefractive Materials; Thesis Supervisor: Jorge Enrique Rueda."
 
       - institution: University of Pamplona
         degree: Physicist
         date: 2006
         location: Pamplona, Colombia
-        summary: "Thesis: Study and implementation of filters for 2D pattern recognition, Thesis Supervisor: Jorge Enrique Rueda."
+        highlights:
+          - "Thesis: Study and implementation of filters for 2D pattern recognition; Thesis Supervisor: Jorge Enrique Rueda."
 
     Research Experience:
       - company: Universidad de Pamplona
