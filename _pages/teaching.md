@@ -97,7 +97,7 @@ nav_order: 6
     </p>
     <div class="course-status">Course materials</div>
   </div>
-#================================================
+
 <div class="course-card">
     <div class="course-title">Thermodynamics</div>
     <p class="course-description">
@@ -105,5 +105,5 @@ nav_order: 6
     </p>
     <div class="course-status">Course materials</div>
   </div>
-  #================================================
+
 </div>
