@@ -1,15 +1,19 @@
 cv:
   name: Luis Alfonso Guerra Hernández
-  headline: Professor & Researcher in Physics
-  location: Pamplona, Colombia
+  label: Professor & Researcher in Physics
   email: luisguerra@unipamplona.edu.co
+  summary: Physicist and university professor with a PhD in Physics, specializing in plasmonics, SERS, nanophotonics, optical spectroscopy, and optical sensing.
+
+  address:
+    street: Universidad de Pamplona, Km 1 vía Bucaramanga
+    city: Pamplona
+    region: Norte de Santander
+    countryCode: CO
 
   sections:
 
-    Professional Summary:
-      - Physicist and university professor with a PhD in Physics, specializing in plasmonics, SERS, nanophotonics, optical spectroscopy, and optical sensing.
-
     Education:
+    
       - institution: Balseiro Institute
         area: Physics
         degree: PhD
