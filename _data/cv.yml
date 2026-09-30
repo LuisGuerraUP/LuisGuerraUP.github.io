@@ -12,34 +12,27 @@ cv:
 
   sections:
 
-    Education:
-    
+     Education:
       - institution: Balseiro Institute
-        area: Physics
-        degree: PhD
+        degree: Ph.D. in Physics
         date: 2021
-        location: S.C. de Bariloche, Argentina
+        location: S.C. Bariloche, Argentina
         highlights:
-          - "Thesis: Optical antennas at the nano and microscale."
-          - "Thesis Supervisor: Alejandro Fainstein."
+          - "Thesis: Optical antennas at the nano and microscale, Thesis Supervisor: Alejandro Fainstein."
 
       - institution: University of Pamplona
-        area: Physics
-        degree: Master
+        degree: Master in Physics
         date: 2011
         location: Pamplona, Colombia
         highlights:
-          - "Thesis: Dynamic Holography using Bi12SiO20 and LiNbO3 Photorefractive Materials."
-          - "Thesis Supervisor: Jorge Enrique Rueda."
+          - "Thesis: Dynamic Holography using Bi12SiO20 and LiNbO3 Photorefractive Materials, Thesis Supervisor: Jorge Enrique Rueda."
 
       - institution: University of Pamplona
-        area: Physics
         degree: Physicist
         date: 2006
         location: Pamplona, Colombia
         highlights:
-          - "Thesis: Study and implementation of filters for 2D pattern recognition."
-          - "Thesis Supervisor: Jorge Enrique Rueda."
+          - "Thesis: Study and implementation of filters for 2D pattern recognition, Thesis Supervisor: Jorge Enrique Rueda."
 
     Research Experience:
       - company: Universidad de Pamplona
