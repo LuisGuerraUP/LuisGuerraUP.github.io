@@ -4,15 +4,10 @@ cv:
   location: Pamplona, Colombia
   email: luisguerra@unipamplona.edu.co
 
-  custom_connections:
-    - fontawesome_icon: location-dot
-      placeholder: "Universidad de Pamplona, Km 1 vía Bucaramanga, Pamplona, Norte de Santander, Colombia"
-      url: null
-
   sections:
 
     Professional Summary:
-      - Physicist and researcher specializing in plasmonics, SERS, nanophotonics, optical spectroscopy, optical sensing, and materials characterization.
+      - Physicist and university professor with a PhD in Physics, specializing in plasmonics, SERS, nanophotonics, optical spectroscopy, and optical sensing.
 
     Education:
       - institution: Balseiro Institute
