@@ -1,186 +1,188 @@
 cv:
   name: Luis Alfonso Guerra Hernández
-  label: Professor & Researcher in Physics
-  email: luisguerra@unipamplona.edu.co
+  headline: Professor & Researcher in Physics
   location: Pamplona, Colombia
-  image: ""
-  summary: Physicist and researcher specializing in plasmonics, SERS, nanophotonics, optical spectroscopy, and optical sensing.
-
-  address:
-    city: Pamplona
-    region: Norte de Santander
-    countryCode: CO
+  email: luisguerra@unipamplona.edu.co
+  website: https://luisguerraup.github.io/
 
   sections:
-   Education:
+
+    Professional Summary:
+      - Physicist and researcher specializing in plasmonics, SERS, nanophotonics, optical spectroscopy, optical sensing, and materials characterization.
+
+    Education:
       - institution: Balseiro Institute
-        location: Bariloche, Argentina
         area: Physics
-        studyType: PhD
-        end_date: 2021
+        degree: PhD
+        date: 2021
+        location: S.C. de Bariloche, Argentina
         highlights:
           - "Thesis: Optical antennas at the nano and microscale."
-          - "Photonics and Optoelectronics Laboratory."
-          - "Advisor: PhD Alejandro Fainstein."
+          - "Thesis Supervisor: Alejandro Fainstein."
 
       - institution: University of Pamplona
-        location: Pamplona, Colombia
         area: Physics
-        studyType: Master in Physics
+        degree: Master
         date: 2011
+        location: Pamplona, Colombia
         highlights:
-          - "Thesis: Dynamic Holography using Bi12SiO20 and LiNbO3 photorefractive materials."
-          - "Advisor: PhD Jorge Enrique Rueda."
+          - "Thesis: Dynamic Holography using Bi12SiO20 and LiNbO3 Photorefractive Materials."
+          - "Thesis Supervisor: Jorge Enrique Rueda."
 
       - institution: University of Pamplona
-        location: Pamplona, Colombia
         area: Physics
-        studyType: Physicist
+        degree: Physicist
         date: 2006
+        location: Pamplona, Colombia
         highlights:
           - "Thesis: Study and implementation of filters for 2D pattern recognition."
-          
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+          - "Thesis Supervisor: Jorge Enrique Rueda."
+
+    Research Experience:
+      - company: Universidad de Pamplona
+        position: Optical Sensors Based on Plasmonic Resonances for Molecular Detection
+        location: Pamplona, Colombia
+        start_date: 2026
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Fabrication, characterization, and optimization of metallic plasmonic substrates for SERS applications.
+          - Morphological characterization by SEM and AFM, optical characterization by reflectivity, and evaluation of thiolated molecules.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Universidad de Pamplona
+        position: Fabrication of Plasmonic Systems for Molecular Detection by SERS
+        location: Pamplona, Colombia
+        start_date: 2024
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - Fabrication and characterization of nanostructured plasmonic systems.
+          - Finite element simulation and optical characterization.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Balseiro Institute
+        position: Optical Antennas at the Nano and Microscale
+        location: S.C. de Bariloche, Argentina
+        start_date: 2012
+        end_date: 2019
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Fabrication of nanostructured plasmonic samples.
+          - Optical and topographical characterization by SEM, AFM, and TEM.
+          - Development of optical antennas for molecular detection by SERS.
+          - Study of surface plasmons using the Kretschmann configuration.
 
-    Awards:
-      - title: Nobel Prize in Physics
+      - company: Universidad de Pamplona
+        position: Real-Time Cryptography Using Optical Techniques
+        location: Pamplona, Colombia
+        start_date: 2007
+        end_date: 2011
+        highlights:
+          - Dynamic holography and wave mixing in photorefractive materials.
+          - Optical cryptosystems using spatial light modulators.
+
+    Teaching Experience:
+      - company: University of Pamplona
+        position: Professor
+        location: Pamplona, Colombia
+        start_date: 2017
+        end_date: present
+        highlights:
+          - Electromagnetism.
+          - Oscillations and Waves.
+          - Thermodynamics.
+          - Physics Laboratories.
+
+      - company: University of Research and Development
+        position: Professor
+        location: Colombia
+        date: 2024
+        highlights:
+          - Oscillations and Waves.
+          - Mechanics.
+          - Physics Laboratories.
+
+    Selected Publications:
+      - title: Optimisation and precision tuning of localised surface plasmon resonance in AuFON systems
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "*Luis A. Guerra Hernández*"
+          - Osmar Gil Salas
+          - Jorge Enrique Rueda Parada
+          - Alejandro Fainstein
+          - Andrés Alejandro Reynoso
+        date: 2025
+        journal: EPJ Applied Metamaterials
+        doi: 10.1051/epjam/2025004
 
-      - title: Max Planck Medal
+      - title: "Green plasmonic mode in AgFON structures: A pathway to enhanced SERS sensitivity"
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "*Luis A. Guerra Hernández*"
+          - Luis Fernando Tapia Payares
+          - Jorge-Enrique Rueda-Parada
+          - Andrés Alejandro Reynoso
+          - Jagger Rivera Julio
+          - Alejandro Fainstein
+        date: 2025
+        journal: Results in Surfaces and Interfaces
+        doi: 10.1016/j.rsurfi.2025.100587
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Efficiency and Spatial Homogeneity of the SERS Signal in Plasmonic Antennas: A Study at the Nano and Micro Scales"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - "*Luis A. Guerra Hernández*"
+          - Oslen Dilayder Jaimes Suarez
+          - Jorge-Enrique Rueda-Parada
+        date: 2024
+        journal: BISTUA Revista de la Facultad de Ciencias Básicas
+        doi: 10.24054/bistua.v22i2.3338
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Does the chemical contribution have a secondary role in SERS?
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - "*Luis A. Guerra Hernández*"
+          - Andres Reynoso
+          - Alejandro Fainstein
+        date: 2023
+        journal: Journal of the Optical Society of America B
+        doi: 10.1364/JOSAB.482513
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Resonant far-to-near field channeling in synergetic multiscale antennas
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - "*Luis A. Guerra*"
+          - Paloma Arroyo Huidobro
+          - Stefan A. Maier
+          - Alejandro Fainstein
+        date: 2019
+        journal: ACS Photonics
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Synergetic light-harvesting and near-field enhancement in multiscale patterned gold substrates
+        authors:
+          - "*Luis A. Guerra*"
+          - Maria Antonieta Daza Millone
+          - Emiliano Cortés
+          - Marcos Federico Castez
+          - Baptiste Auguié
+          - María E. Vela
+          - Roberto C. Salvarezza
+          - Alejandro Fainstein
+        date: 2015
+        journal: ACS Photonics
+        doi: 10.1021/acsphotonics.5b00345
+
+    Research Areas:
+      - label: Areas
+        details: Plasmonics, SERS, nanophotonics, optical spectroscopy, optical sensors, materials characterization
+
+      - label: Techniques
+        details: SEM, AFM, TEM, reflectivity, Raman spectroscopy, finite element simulation
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - label: Spanish
+        details: Native
 
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - label: English
+        details: Academic reading and scientific writing
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Alejandro Fainstein
+        summary: Balseiro Institute, Argentina — afains@cab.cnea.gov.ar
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: María Antonieta Daza Millone
+        summary: INIFTA, Universidad Nacional de La Plata, Argentina — dazamillone@inifta.unlp.edu.ar
 
-        design:
-  theme: engineeringresumes
+      - name: Andrés Alejandro Reynoso
+        summary: Balseiro Institute, Argentina — andres.a.reynoso@gmail.com
