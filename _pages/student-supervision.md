@@ -184,8 +184,6 @@ En el trabajo también se presenta la comparación de estos sistemas nanoestruct
 <!-- ====================================================== -->
 <!-- STUDENT: Edinson Gelvez -->
 <!-- ====================================================== -->
-  </div>
-
-</div>
+ 
 
 </div>
