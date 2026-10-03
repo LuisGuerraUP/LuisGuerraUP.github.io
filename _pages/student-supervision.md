@@ -110,10 +110,21 @@ nav_order: 9
       Estudio numérico de plasmones superficiales localizados en sistemas de film metálico de oro sobre arreglos ordenados de nanoesferas
     </div>
 
-    <div class="student-abstract">
-      <strong>Abstract.</strong>
-    Los sistemas plasmónicos de film metálico sobre arreglos ordenados de nanoesferas se han constituido en un tipo de nanoestructura con propiedades plasmónicas útiles para dispositivos que pueden ser empleados en la detección molecular. En particular, el presente trabajo de tesis estuvo centrado en una caracterización detallada de un sistema de Au-film sobre un arreglo ordenado de nanoesferas (AuFON). En este sistema, fue posible identificar, mediante simulación numérica y experimentos, los distintos modos plasmónicos superficiales localizados y la distribución espacial del campo eléctrico en la superficie nanoestructurada. En los resultados se estudió la dependencia de estos modos plasmónicos mediante la variación de las dimensiones de la nanoestructura y de las condiciones ópticas de la radiación incidente. Los modos plasmónicos se analizaron en función de la polarización de la luz incidente, el diámetro de la nanoestructura, el ángulo de incidencia y la orientación de la muestra. Además, se realizó una comparación entre la simulación numérica y los resultados experimentales de estos sistemas.
-    </div>
+<div class="student-abstract">
+
+  <details>
+
+    <summary>
+      <strong>Ver resumen</strong>
+    </summary>
+
+    <p>
+     Los sistemas plasmónicos de film metálico sobre arreglos ordenados de nanoesferas se han constituido en un tipo de nanoestructura con propiedades plasmónicas útiles para dispositivos que pueden ser empleados en la detección molecular. En particular, el presente trabajo de tesis estuvo centrado en una caracterización detallada de un sistema de Au-film sobre un arreglo ordenado de nanoesferas (AuFON). En este sistema, fue posible identificar, mediante simulación numérica y experimentos, los distintos modos plasmónicos superficiales localizados y la distribución espacial del campo eléctrico en la superficie nanoestructurada. En los resultados se estudió la dependencia de estos modos plasmónicos mediante la variación de las dimensiones de la nanoestructura y de las condiciones ópticas de la radiación incidente. Los modos plasmónicos se analizaron en función de la polarización de la luz incidente, el diámetro de la nanoestructura, el ángulo de incidencia y la orientación de la muestra. Además, se realizó una comparación entre la simulación numérica y los resultados experimentales de estos sistemas.
+    </p>
+
+  </details>
+
+</div>
 
     <div class="student-keywords">
       <strong>Keywords:</strong>
