@@ -131,6 +131,10 @@ nav_order: 9
       <strong>Keywords:</strong>
       plasmonics, localized surface plasmons, AuFON, nanospheres, numerical simulation
     </div>
+    
+      </div>
+
+</div>
 <!-- ====================================================== -->
 <!-- STUDENT: Luis Tapia -->
 <!-- ====================================================== -->
@@ -174,6 +178,9 @@ En el trabajo también se presenta la comparación de estos sistemas nanoestruct
       <strong>Keywords:</strong>
      PLASMONIC, PLASMON, LOCALIZED SURFACE PLASMON RESONANCE, NANOSPHERES
     </div>
+      </div>
+
+</div>
 <!-- ====================================================== -->
 <!-- STUDENT: Edinson Gelvez -->
 <!-- ====================================================== -->
