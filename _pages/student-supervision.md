@@ -329,7 +329,7 @@ Aunque una reproducción precisa de los datos históricos no garantiza la predic
  <div class="student-card">
 
   <div class="student-photo">
-    <img src="/assets/img/students/julio.png" alt="Oscar Esteban Ruiz Rivera<img width="582">
+    <img src="/assets/img/students/oscar.png" alt="Oscar Esteban Ruiz Rivera">
   </div>
 
   <div>
@@ -361,7 +361,7 @@ Aunque una reproducción precisa de los datos históricos no garantiza la predic
 
     <div class="student-keywords">
       <strong>Keywords:</strong>
-    Transformada de Fourier, inteligencia artificial, mercado financiero, opciones binarias
+    Inteligencia artificial
     </div>
       </div>
 
