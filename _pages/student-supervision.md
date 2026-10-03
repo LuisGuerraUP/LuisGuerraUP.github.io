@@ -90,11 +90,96 @@ nav_order: 9
 </style>
 
 <div class="student-grid">
-  
+
+  <!-- ====================================================== -->
+<!-- STUDENT: Lezly Martinez -->
+<!-- ====================================================== -->
+<div class="student-card">
+
+  <div class="student-photo">
+    <img src="/assets/img/students/Lezly.png" alt="Lezly Ximena Martinez Rubiano">
+  </div>
+
+  <div>
+
+    <div class="student-name">
+      Lezly Ximena Martinez Rubiano
+    </div>
+
+    <div class="student-title">
+      XXXX
+    </div>
+
+<div class="student-abstract">
+
+  <details>
+
+    <summary>
+      <strong>Ver resumen</strong>
+    </summary>
+
+    <p>
+     Resumen aqui... 
+    </p>
+
+  </details>
+
+</div>
+
+    <div class="student-keywords">
+      <strong>Keywords:</strong>
+      palabras clave aqui
+    </div>
+    
+      </div>
+
+</div>
+<!-- ====================================================== -->
+<!-- STUDENT: Tariana Albarracin -->
+<!-- ====================================================== -->
+<div class="student-card">
+
+  <div class="student-photo">
+    <img src="/assets/img/students/Jesica.png" alt="Jesica Tatiana Albarracin">
+  </div>
+
+  <div>
+
+    <div class="student-name">
+      Jesica Tatiana Albarracin
+    </div>
+
+    <div class="student-title">
+      Titulo Aqui
+    </div>
+
+<div class="student-abstract">
+
+  <details>
+
+    <summary>
+      <strong>Ver resumen</strong>
+    </summary>
+
+    <p>
+     Resumen aqui 
+    </p>
+
+  </details>
+
+</div>
+
+    <div class="student-keywords">
+      <strong>Keywords:</strong>
+      palabras claves aqui
+    </div>
+    
+      </div>
+
+</div>
 <!-- ====================================================== -->
 <!-- STUDENT: Osmar Gil Salas -->
 <!-- ====================================================== -->
-
 <div class="student-card">
 
   <div class="student-photo">
