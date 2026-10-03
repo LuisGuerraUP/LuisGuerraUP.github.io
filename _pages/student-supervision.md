@@ -92,7 +92,7 @@ nav_order: 9
 <div class="student-grid">
   
 <!-- ====================================================== -->
-<!-- STUDENT 1 --> Osmar Gil Salas
+<!-- STUDENT: Osmar Gil Salas -->
 <!-- ====================================================== -->
 
 <div class="student-card">
@@ -132,11 +132,11 @@ nav_order: 9
       plasmonics, localized surface plasmons, AuFON, nanospheres, numerical simulation
     </div>
 <!-- ====================================================== -->
-<!-- STUDENT 2 --> Luis Tapia
+<!-- STUDENT: Luis Tapia -->
 <!-- ====================================================== -->
 
 <!-- ====================================================== -->
-<!-- STUDENT 3 --> Edinso Gelvez
+<!-- STUDENT: Edinson Gelvez -->
 <!-- ====================================================== -->
   </div>
 
