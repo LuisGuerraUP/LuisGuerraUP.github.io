@@ -184,6 +184,53 @@ En el trabajo también se presenta la comparación de estos sistemas nanoestruct
 <!-- ====================================================== -->
 <!-- STUDENT: Edinson Gelvez -->
 <!-- ====================================================== -->
- 
+ <div class="student-card">
 
+  <div class="student-photo">
+    <img src="/assets/img/students/Edinson.png" alt="EDINSON LEONARDO GÉLVEZ RODRÍGUEZ">
+  </div>
+
+  <div>
+
+    <div class="student-name">
+      EDINSON LEONARDO GÉLVEZ RODRÍGUEZ
+    </div>
+
+    <div class="student-title">
+     RESONANCIA DE PLASMONES DE SUPERFICIE EN SISTEMAS DE FILMS METÁLICOS
+    </div>
+
+<div class="student-abstract">
+
+  <details>
+
+    <summary>
+      <strong>Ver resumen</strong>
+    </summary>
+
+    <p>
+    sistemas metálicos planos o nanoestructurados. En este trabajo se realizó un estudio de la resonancia de plasmones superficiales propagantes en sistemas de films metálicos de Au y Ag, usando la configuración óptica de Kretschmann.
+
+Se usan metales nobles (Au o Ag) debido a que la resonancia de estos plasmones está en la región visible del espectro electromagnético, lo cual facilita dichos procesos de resonancia. Se analizaron expresiones analíticas de los modelos teóricos planteados en la literatura, entre ellos los modelos de Lorentz y Drude. De estos modelos se abordó la solución clásica para el movimiento del electrón en un material, de donde se obtiene la función dieléctrica, la cual permite inferir el comportamiento óptico del metal en términos de la dispersión normal y anómala (resonancia).
+
+Igualmente, se demostraron las ecuaciones de Fresnel para la reflectividad óptica y se simularon implementando códigos en el programa MATLAB. A partir de estas simulaciones fue posible verificar que la resonancia de plasmones superficiales propagantes depende de varios parámetros, como la longitud de onda y la polarización de la luz incidente, el ángulo de incidencia, el índice de refracción del medio dieléctrico que interactúa con el metal y el espesor del film metálico.
+
+Se estudió la sensibilidad de la configuración óptica de Kretschmann ante variaciones del índice de refracción del medio dieléctrico en contacto con el metal, revelando que mínimas variaciones del índice de refracción son suficientes para generar un corrimiento angular del pico de resonancia plasmónica. Este corrimiento angular permitió establecer el principio de funcionamiento de un sensor óptico considerando variaciones del índice de refracción de soluciones acuosas y gaseosas.
+    </p>
+
+  </details>
+
+</div>
+
+    <div class="student-keywords">
+      <strong>Keywords:</strong>
+     PLASMÓN, RESONANCIA PLASMÓNICA, REFLECTIVIDAD, SENSOR ÓPTICO
+    </div>
+      </div>
+
+</div>
+
+<!-- ====================================================== -->
+<!-- OTRO -->
+<!-- ====================================================== -->
 </div>
