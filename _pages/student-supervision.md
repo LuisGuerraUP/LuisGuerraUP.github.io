@@ -91,34 +91,33 @@ nav_order: 9
 
 <div class="student-grid">
 <!-- ====================================================== -->
-<!-- STUDENT 1 -->
+<!-- STUDENT 1 --> Osmar Gil Salas
 <!-- ====================================================== -->
 
 <div class="student-card">
 
   <div class="student-photo">
-    <img src="/assets/img/students/student-01.jpg" alt="Student Name">
+    <img src="/assets/img/students/osmar-gil-salas.jpg" alt="Osmar Gil Salas">
   </div>
 
   <div>
 
     <div class="student-name">
-      Student Name
+      Osmar Gil Salas
     </div>
 
     <div class="student-title">
-      Title of the Research Project
+      Estudio numérico de plasmones superficiales localizados en sistemas de film metálico de oro sobre arreglos ordenados de nanoesferas
     </div>
 
     <div class="student-abstract">
       <strong>Abstract.</strong>
-      Write here a brief description of the research project,
-      including its objectives, methodology, and main scientific contribution.
+      Numerical and experimental characterization of Au-film systems on ordered arrays of nanospheres (AuFON), focusing on localized surface plasmon modes and the spatial distribution of the electric field. The study analyzes the dependence of the plasmonic response on nanostructure dimensions, light polarization, angle of incidence, and sample orientation, including a comparison between numerical simulations and experimental results.
     </div>
 
     <div class="student-keywords">
       <strong>Keywords:</strong>
-      plasmonics, SERS, optical spectroscopy, nanostructures
+      plasmonics, localized surface plasmons, AuFON, nanospheres, numerical simulation
     </div>
 
   </div>
