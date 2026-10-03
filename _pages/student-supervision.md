@@ -235,7 +235,7 @@ Se estudió la sensibilidad de la configuración óptica de Kretschmann ante var
  <div class="student-card">
 
   <div class="student-photo">
-    <img src="/assets/img/students/juan.png" alt="Juan Diego Florez Vera">
+    <img src="/assets/img/students/Juan.png" alt="Juan Diego Florez Vera">
   </div>
 
   <div>
@@ -283,7 +283,7 @@ La investigación representa un avance en la comprensión de los fenómenos sís
  <div class="student-card">
 
   <div class="student-photo">
-    <img src="/assets/img/students/julio.png" alt="Julio Mario Mejía">
+    <img src="/assets/img/students/Julio.png" alt="Julio Mario Mejía">
   </div>
 
   <div>
@@ -329,7 +329,7 @@ Aunque una reproducción precisa de los datos históricos no garantiza la predic
  <div class="student-card">
 
   <div class="student-photo">
-    <img src="/assets/img/students/oscar.png" alt="Oscar Esteban Ruiz Rivera">
+    <img src="/assets/img/students/Oscar.png" alt="Oscar Esteban Ruiz Rivera">
   </div>
 
   <div>
