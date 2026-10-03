@@ -187,13 +187,13 @@ En el trabajo también se presenta la comparación de estos sistemas nanoestruct
  <div class="student-card">
 
   <div class="student-photo">
-    <img src="/assets/img/students/edinson.png" alt="EDINSON LEONARDO GÉLVEZ RODRÍGUEZ">
+    <img src="/assets/img/students/edinson.png" alt="Edinson Leonardo Gélvez Rodríguez">
   </div>
 
   <div>
 
     <div class="student-name">
-      EDINSON LEONARDO GÉLVEZ RODRÍGUEZ
+      Edinson Leonardo Gélvez Rodríguez
     </div>
 
     <div class="student-title">
