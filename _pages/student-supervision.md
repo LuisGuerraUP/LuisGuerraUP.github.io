@@ -229,8 +229,145 @@ Se estudió la sensibilidad de la configuración óptica de Kretschmann ante var
       </div>
 
 </div>
+<!-- ====================================================== -->
+<!-- Juan Diego-->
+<!-- ====================================================== -->
+ <div class="student-card">
 
+  <div class="student-photo">
+    <img src="/assets/img/students/juan.png" alt="Juan Diego Florez Vera">
+  </div>
+
+  <div>
+
+    <div class="student-name">
+      Juan Diego Florez Vera
+    </div>
+
+    <div class="student-title">
+     ESTUDIO DE LA SISMICIDAD TERRESTRE Y SU CORRELACIÓN CON VARIABLES GEOFÍSICAS
+    </div>
+
+<div class="student-abstract">
+
+  <details>
+
+    <summary>
+      <strong>Ver resumen</strong>
+    </summary>
+
+    <p>
+    El pronóstico probabilístico de la actividad sísmica en determinados rangos temporales y espaciales representa uno de los mayores desafíos científicos contemporáneos en el campo de la sismología y las ciencias de la Tierra. Si bien la predicción exacta de sismos sigue siendo inalcanzable debido a la complejidad inherente de los procesos geofísicos, esta investigación aborda esta problemática mediante un análisis exhaustivo y multidimensional de la actividad sísmica global durante el período 1965-2016, estableciendo un marco metodológico innovador para la comprensión de los patrones sísmicos.
+
+El estudio desarrolla un análisis integral que explora las complejas interrelaciones entre la actividad sísmica y diversos parámetros geofísicos fundamentales, incluyendo las variaciones del campo magnético terrestre, las fluctuaciones gravitacionales, la actividad volcánica y la distribución espacial de las principales fallas tectónicas. A través de técnicas avanzadas de análisis de datos y modelado estadístico, esta investigación identifica patrones significativos y correlaciones previamente no documentadas en la literatura.
+
+Los resultados obtenidos no solo proporcionan una caracterización más precisa y detallada de la sismicidad terrestre, sino que también establecen nuevas perspectivas para la comprensión de los mecanismos que gobiernan la ocurrencia de sismos. Además, contribuyen significativamente al desarrollo de modelos probabilísticos de actividad sísmica y estrategias de gestión del riesgo sísmico.
+
+La investigación representa un avance en la comprensión de los fenómenos sísmicos, ofreciendo herramientas y conocimientos valiosos para futuras investigaciones en el campo.
+    </p>
+
+  </details>
+
+</div>
+
+    <div class="student-keywords">
+      <strong>Keywords:</strong>
+     SISMOS, VOLCANES, CAMPO MAGNÉTICO, CAMPO GRAVITACIONAL
+    </div>
+      </div>
+
+</div>
 <!-- ====================================================== -->
-<!-- OTRO -->
+<!-- Julio Mejia-->
 <!-- ====================================================== -->
+ <div class="student-card">
+
+  <div class="student-photo">
+    <img src="/assets/img/students/julio.png" alt="Julio Mario Mejía">
+  </div>
+
+  <div>
+
+    <div class="student-name">
+      Julio Mario Mejía
+    </div>
+
+    <div class="student-title">
+     Transformada rápida de Fourier y redes LSTM aplicadas al modelado del tipo de cambio EUR/USD
+    </div>
+
+<div class="student-abstract">
+
+  <details>
+
+    <summary>
+      <strong>Ver resumen</strong>
+    </summary>
+
+    <p>
+    Aunque los mercados financieros suelen considerarse impredecibles, su dinámica puede revelar patrones detectables cuando se analiza mediante enfoques basados en la física y las matemáticas. Este estudio investiga la posibilidad de anticipar el comportamiento del tipo de cambio EUR/USD mediante técnicas de descomposición en frecuencias y aprendizaje profundo.
+
+Se utilizaron datos diarios correspondientes al período 2004-2025, obtenidos de Yahoo Finance. En primer lugar, la Transformada Rápida de Fourier permitió identificar componentes armónicos capaces de describir tanto la tendencia de largo plazo como las fluctuaciones de corto plazo, cuyo desempeño fue evaluado mediante el error cuadrático medio. Posteriormente, se implementó una red neuronal univariante Long Short-Term Memory (LSTM), entrenada mediante early stopping, que alcanzó bajos errores de predicción y elevados valores de (R^2) durante la etapa de validación.
+
+Aunque una reproducción precisa de los datos históricos no garantiza la predicción del comportamiento futuro debido a la presencia de choques externos y cambios estructurales, la combinación de análisis espectral y aprendizaje profundo permite extraer características estructurales relevantes de la dinámica financiera. Este enfoque interdisciplinario abre nuevas perspectivas para el modelado cuantitativo y la comprensión de la dinámica de los sistemas financieros sin asumir un comportamiento determinista.
+    </p>
+
+  </details>
+
+</div>
+
+    <div class="student-keywords">
+      <strong>Keywords:</strong>
+    Transformada de Fourier, inteligencia artificial, mercado financiero, opciones binarias
+    </div>
+      </div>
+
+</div>
+<!-- ====================================================== -->
+<!-- Oscar Ruiz-->
+<!-- ====================================================== -->
+ <div class="student-card">
+
+  <div class="student-photo">
+    <img src="/assets/img/students/julio.png" alt="Oscar Esteban Ruiz Rivera<img width="582">
+  </div>
+
+  <div>
+
+    <div class="student-name">
+      Oscar Esteban Ruiz Rivera
+
+    </div>
+
+    <div class="student-title">
+    Estudio y optimización de modelos de machine learning para la predicción y clasificación de glitches en datos astrofísicos
+    </div>
+
+<div class="student-abstract">
+
+  <details>
+
+    <summary>
+      <strong>Ver resumen</strong>
+    </summary>
+
+    <p>
+    Resumen
+    </p>
+
+  </details>
+
+</div>
+
+    <div class="student-keywords">
+      <strong>Keywords:</strong>
+    Transformada de Fourier, inteligencia artificial, mercado financiero, opciones binarias
+    </div>
+      </div>
+
+</div>
+<!-- ====================================================== -->
+<!-- Oscar Ruiz-->
+<!-- ====================================================== -->
+
 </div>
