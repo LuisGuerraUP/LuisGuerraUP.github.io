@@ -141,7 +141,7 @@ nav_order: 9
 <div class="student-card">
 
   <div class="student-photo">
-    <img src="/assets/img/students/luis.png" alt="Luis Fernando Tapia Payares">
+    <img src="/assets/img/students/Luis.png" alt="Luis Fernando Tapia Payares">
   </div>
 
   <div>
