@@ -89,19 +89,16 @@ nav_order: 9
 
 </style>
 
-
 <div class="student-intro">
 
-## Students
+  <h2>Students</h2>
 
-Undergraduate students supervised in research projects and theses.
+  <p>
+    Undergraduate students supervised in research projects and theses.
+  </p>
 
 </div>
-
-
 <div class="student-grid">
-
-
 <!-- ====================================================== -->
 <!-- STUDENT 1 -->
 <!-- ====================================================== -->
@@ -202,7 +199,8 @@ Undergraduate students supervised in research projects and theses.
       including its objectives, methodology, and main scientific contribution.
     </div>
 
-    <div class="student-keywords">
+
+<div class="student-keywords">
       <strong>Keywords:</strong>
       materials characterization, optics, microscopy
     </div>
@@ -210,6 +208,5 @@ Undergraduate students supervised in research projects and theses.
   </div>
 
 </div>
-
 
 </div>
