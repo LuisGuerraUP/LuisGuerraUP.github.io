@@ -89,15 +89,6 @@ nav_order: 9
 
 </style>
 
-<div class="student-intro">
-
-  <h2>Students</h2>
-
-  <p>
-    Undergraduate students supervised in research projects and theses.
-  </p>
-
-</div>
 <div class="student-grid">
 <!-- ====================================================== -->
 <!-- STUDENT 1 -->
